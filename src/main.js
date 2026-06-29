@@ -1,4 +1,4 @@
-import './style.css'
+
 const ratingNumbers = document.querySelectorAll(".rating-number");
 const defaultActive = document.querySelector(".default-active");
 const submitbtn = document.querySelector(".btn");
